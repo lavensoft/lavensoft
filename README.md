@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/nhatsdevil"><img src="https://api.daily.dev/devcards/7569f65944cf42f08805f5efd15e086a.png?r=oo1" width="400" alt="Nhats Devil's Dev Card"/></a>
+
 <!--
 **lavensoft/lavensoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
